@@ -3,7 +3,8 @@
 	"sites": [
 		{
 			"key": "root",
-			"name": "Yeni Site",
+			"name": "laptopify",
+			"url": "https://app.wuppycms.com/preview/fuatcangnc-laptopify-52ovz/",
 			"media": "public",
 			"publishing": "review",
 			"collections": ["posts", "pages"]

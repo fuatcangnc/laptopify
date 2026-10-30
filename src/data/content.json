@@ -1,51 +1,111 @@
 {
-  "industry": "mühendislik",
-  "automotive": true,
-  "heroEyebrow": "TSE 360 & TÜVTÜRK YETKİLİ ARAÇ PROJE OFİSİ",
-  "heroTitle": "Araç proje hizmetleri ve motosiklet çanta ruhsata işletme",
-  "heroDescription": "Yetkili makine mühendisliği kadromuzla araç projelerinizi ve motosiklet çanta tescillerinizi hızlı, eksiksiz ve mevzuata tam uyumlu biçimde yönetiyoruz.",
+  "industry": "Telefon Tamiri",
+  "automotive": false,
+  "heroEyebrow": "PROFESYONEL TELEFON TEKNİK SERVİSİ",
+  "heroTitle": "30 Dakikada Garantili Telefon Tamiri ve Orijinal Parça Çözümleri",
+  "heroDescription": "Arızalı akıllı telefonlarınızı orijinal parçalarla 30 dakikada onarıyor, tüm teknik işlemlere 6 ay parça garantisi sunuyoruz.",
   "highlights": [
-    "Araç Proje | TSE Onaylı",
-    "Motosiklet Çanta Ruhsata İşletme",
-    "TÜVTÜRK & Noter Tescil Desteği"
+    "30 Dakikada Teslim",
+    "Orijinal Yedek Parça",
+    "6 Ay Servis Garantisi",
+    "Ücretsiz Arıza Tespiti"
   ],
   "metrics": [
     {
-      "value": "12+ Yıl",
-      "label": "Mühendislik Deneyimi"
+      "value": "30 Dk",
+      "label": "Ortalama Tamir Süresi"
     },
     {
-      "value": "1.000+",
-      "label": "Tescilli Proje"
+      "value": "6 Ay",
+      "label": "Parça ve İşçilik Garantisi"
     },
     {
       "value": "%100",
-      "label": "Mevzuat Uyumu"
+      "label": "Orijinal Parça Oranı"
     }
   ],
-  "aboutTitle": "Araç projesi ve motosiklet çanta tescilinde iki ana uzmanlık",
-  "aboutText": "İhtiyacınız olan hizmet alanını seçin; mevzuata tam uygun teknik hesaplama, TSE 360 dijital dosya onayı ve noter tescil adımlarını sıfır hata güvencesiyle tamamlayalım.",
+  "aboutTitle": "Teknik Uzmanlık ve Şeffaf Servis Anlayışı",
+  "aboutText": "laptopify, akıllı telefon onarımında mikroskopik düzeyde teknik müdahale ve hızlı servis standartları uygular. Cihaz güvenliğini ön planda tutarak orijinal yedek parça ve test edilmiş prosedürlerle onarım yapıyoruz. 6 aylık servis garantisi ve şeffaf süreçlerle cihazınızı ilk günkü performansına kavuşturuyoruz.",
   "categories": [
-    "Araç Projeleri",
-    "Dönüşüm",
-    "Söküm",
-    "Motosiklet",
-    "Belgelendirme"
+    "Ekran & Kasa",
+    "Batarya & Güç",
+    "Anakart & Donanım"
   ],
-  "services": [],
+  "services": [
+    {
+      "title": "Ekran Değişimi",
+      "shortTitle": "Ekran Değişimi",
+      "slug": "ekran-degisimi",
+      "summary": "Kırık veya dokunmatiği çalışmayan panelleri orijinal ekranla 30 dakikada değiştiriyoruz.",
+      "category": "Ekran & Kasa"
+    },
+    {
+      "title": "Batarya Değişimi",
+      "shortTitle": "Batarya Değişimi",
+      "slug": "batarya-degisimi",
+      "summary": "Sağlığı düşen ya da şişen pilleri yüksek performanslı orijinal bataryalarla yeniliyoruz.",
+      "category": "Batarya & Güç"
+    },
+    {
+      "title": "Şarj Soketi Onarımı",
+      "shortTitle": "Şarj Soketi Onarımı",
+      "slug": "sarj-soketi-onarimi",
+      "summary": "Temassızlık yapan veya şarj almayan girişleri onarıyor, gerektiğinde soket modülünü yeniliyoruz.",
+      "category": "Batarya & Güç"
+    },
+    {
+      "title": "Arka Cam Değişimi",
+      "shortTitle": "Arka Cam Değişimi",
+      "slug": "arka-cam-degisimi",
+      "summary": "Kırılan arka kapak ve camları lazer teknolojisiyle kasaya zarar vermeden yeniliyoruz.",
+      "category": "Ekran & Kasa"
+    },
+    {
+      "title": "Anakart Tamiri",
+      "shortTitle": "Anakart Tamiri",
+      "slug": "anakart-tamiri",
+      "summary": "Açılmayan veya kısa devre yapan cihazları mikroskop altında entegre onarımıyla çalıştırıyoruz.",
+      "category": "Anakart & Donanım"
+    },
+    {
+      "title": "Sıvı Teması Onarımı",
+      "shortTitle": "Sıvı Teması Onarımı",
+      "slug": "sivi-temasi-onarimi",
+      "summary": "Suya düşen cihazları ultrasonik korozyon temizliği ve mikroteknik müdahaleyle hayata döndürüyoruz.",
+      "category": "Anakart & Donanım"
+    },
+    {
+      "title": "Kamera ve Lens Tamiri",
+      "shortTitle": "Kamera ve Lens Tamiri",
+      "slug": "kamera-lens-tamiri",
+      "summary": "Odaklama yapmayan, titreyen veya camı çatlayan kamera modüllerini orijinaliyle yeniliyoruz.",
+      "category": "Ekran & Kasa"
+    },
+    {
+      "title": "Ahize ve Hoparlör Onarımı",
+      "shortTitle": "Ahize ve Hoparlör Onarımı",
+      "slug": "ahize-hoparlor-onarimi",
+      "summary": "Ses iletiminde cızırtı veya kesilme yapan ses bileşenlerini temizliyor ve yeniliyoruz.",
+      "category": "Anakart & Donanım"
+    }
+  ],
   "faq": [
     {
-      "question": "Motosiklet çanta ruhsata nasıl işletilir?",
-      "answer": "Motosiklete monte edilen arka çanta veya taşıma kutusu için yetkili makine mühendisimiz tarafından TSE onaylı tadilat projesi çizilir. Ardından TSE Araç Kontrol Merkezi incelemesi ve TÜVTÜRK tespit muayenesi yapılarak noterden yeni ruhsat teslim alınır."
+      "question": "Tamir işlemi ortalama ne kadar sürer?",
+      "answer": "Ekran ve batarya değişimi gibi standart işlemler ortalama 30 dakikada tamamlanır. Sıvı teması ve anakart onarımı gibi ileri düzey müdahaleler detaylı test aşamasına göre gün içinde sonuçlandırılır."
     },
     {
-      "question": "Araç projesi hangi durumlarda zorunludur?",
-      "answer": "Karavan dönüşümü, motor değişimi, çeki demiri montajı, koltuk sökümü veya ilavesi, LPG sökümü ve engelli aparatı gibi aracın fabrika çıkış özelliklerini değiştiren tüm işlemlerde yasal olarak araç projesi zorunludur."
+      "question": "Tamir sırasında cihazımdaki veriler silinir mi?",
+      "answer": "Ekran, batarya, soket ve kamera gibi donanım değişimlerinde telefonunuzdaki kişisel veriler silinmez. Anakart müdahalelerinde ise olası riskler işlem öncesinde tarafınıza aktarılır."
     },
     {
-      "question": "TSE onay ve ruhsat süreci ne kadar sürer?",
-      "answer": "Teknik evraklarınız ve montaj faturanız hazır olduğunda proje çizimi ve TSE 360 sistemine dosya yükleme işlemi aynı gün içinde tamamlanır. Randevu sonrasında muayene ve noter tesciliyle süreç hızla sonuçlandırılır."
+      "question": "Kullanılan parçalar orijinal mi, garanti veriliyor mu?",
+      "answer": "Onarımlarda orijinal ve fabrika standartlarına uygun yedek parçalar kullanılır. Değiştirilen parçalar ve işçilik 6 ay süreyle servis garantisi altındadır."
+    },
+    {
+      "question": "Fiyat bilgisini nasıl öğrenebilirim?",
+      "answer": "Cihazınızın marka, model ve arıza durumunu WhatsApp üzerinden belirterek net tamir bedelini dakikalar içinde öğrenebilirsiniz. Onayınız olmadan hiçbir işlem başlatılmaz."
     }
   ],
-  "ctaLabel": "Teklif Al"
+  "ctaLabel": "WhatsApp ile Fiyat Al"
 }
